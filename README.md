@@ -6,6 +6,6 @@ The player can move in all directions using the arrows on the keyboard. <img src
           
 If the snake hits one of the walls or itself - GAME OVER.</br>
 
-<img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/08/nokia-snake-1533204930.jpg" width="300" height="300"/>
+<img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/08/nokia-snake-1533204930.jpg" width="300" height="200"/>
 
 
